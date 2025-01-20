@@ -11,7 +11,7 @@ public class DemoApplication {
 	public  static Logger logger = LoggerFactory.getLogger(DemoApplication.class);
 
 	public  void init(){
-		logger.info("The Spring Jenkins integration application has been started");
+		logger.info("The Spring Jenkins integration application has been started successfully");
 	}
 
 
